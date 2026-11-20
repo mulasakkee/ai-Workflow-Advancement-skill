@@ -1,0 +1,4 @@
+interface:
+  display_name: "接力棒 · 项目共创与交接"
+  short_description: "从想法讨论、方案调整到执行与交接，用同一入口持续保存项目记忆"
+  default_prompt: "使用 $jielibang，结合当前对话和项目资料，按本轮意图继续讨论、规划、执行或交接，并在项目归属明确且允许写入时更新项目总览与 Handoff.md。"
